@@ -1,0 +1,40 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "25a1bfa3-72b1-4c39-b359-8a250c55db44",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1793783483894"
+        }
+      },
+      "favorite": {
+        "name": ""
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    },
+    {
+      "id": "ae10db5a-e612-4f95-afa5-018703c7b856",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1793784550416"
+        }
+      },
+      "favorite": {
+        "name": "Lab8"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}

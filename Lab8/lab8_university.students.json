@@ -1,0 +1,411 @@
+[{
+  "_id": {
+    "$oid": "6aeafb078289cc1ed8cab9de"
+  },
+  "student_id": 101,
+  "full_name": "Иван Иванов",
+  "email": "new_email@university.kz",
+  "group": "ИС 24-22",
+  "registrations": [
+    {
+      "code": "NOSQL301",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeafb078289cc1ed8cab9df"
+  },
+  "student_id": 102,
+  "full_name": "Анна Петрова",
+  "email": "a.petrova@mail.kz",
+  "group": "ИС 24-21",
+  "registrations": [
+    {
+      "code": "NOSQL301",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeafb078289cc1ed8cab9e0"
+  },
+  "student_id": 103,
+  "full_name": "Алексей Смирнов",
+  "email": "a.smirnov@mail.kz",
+  "group": "ИС 25-12",
+  "registrations": [
+    {
+      "code": "WEB210",
+      "semester": "2026-1"
+    },
+    {
+      "code": "DB201",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeafb078289cc1ed8cab9e1"
+  },
+  "student_id": 104,
+  "full_name": "Елена Ким",
+  "email": "e.kim@mail.kz",
+  "group": "ИС 25-15",
+  "registrations": [
+    {
+      "code": "AI101",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeafb078289cc1ed8cab9e2"
+  },
+  "student_id": 105,
+  "full_name": "Дмитрий Тгай",
+  "email": "d.tgai@mail.kz",
+  "group": "ИС 26-22",
+  "registrations": [
+    {
+      "code": "NOSQL301",
+      "semester": "2026-1"
+    },
+    {
+      "code": "WEB210",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9e3"
+  },
+  "student_id": 101,
+  "full_name": "Иван Иванов",
+  "email": "i.ivanov@mail.kz",
+  "group": "ИС 24-22",
+  "registrations": [
+    {
+      "code": "NOSQL301",
+      "semester": "2026-1"
+    },
+    {
+      "code": "DB201",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9e4"
+  },
+  "student_id": 102,
+  "full_name": "Анна Петрова",
+  "email": "a.petrova@mail.kz",
+  "group": "ИС 23-11",
+  "registrations": [
+    {
+      "code": "NOSQL301",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9e5"
+  },
+  "student_id": 103,
+  "full_name": "Алексей Смирнов",
+  "email": "a.smirnov@mail.kz",
+  "group": "ИС 25-22",
+  "registrations": [
+    {
+      "code": "WEB210",
+      "semester": "2026-1"
+    },
+    {
+      "code": "DB201",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9e6"
+  },
+  "student_id": 104,
+  "full_name": "Елена Ким",
+  "email": "e.kim@mail.kz",
+  "group": "ИС 25-22",
+  "registrations": [
+    {
+      "code": "AI101",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9e7"
+  },
+  "student_id": 105,
+  "full_name": "Дмитрий Тгай",
+  "email": "d.tgai@mail.kz",
+  "group": "ИС 23-2",
+  "registrations": [
+    {
+      "code": "NOSQL301",
+      "semester": "2026-1"
+    },
+    {
+      "code": "WEB210",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9e8"
+  },
+  "student_id": 106,
+  "full_name": "Марина Сабитова",
+  "email": "m.sabitova@mail.kz",
+  "group": "ИС 24-22",
+  "registrations": [
+    {
+      "code": "DB201",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9e9"
+  },
+  "student_id": 107,
+  "full_name": "Тимур Бекболатов",
+  "email": "t.bekbolatov@mail.kz",
+  "group": "ИС 23-11",
+  "registrations": [
+    {
+      "code": "AI101",
+      "semester": "2026-1"
+    },
+    {
+      "code": "NOSQL301",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9ea"
+  },
+  "student_id": 108,
+  "full_name": "Ольга Цой",
+  "email": "o.tsoy@mail.kz",
+  "group": "ИС 25-22",
+  "registrations": [
+    {
+      "code": "WEB210",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9eb"
+  },
+  "student_id": 109,
+  "full_name": "Алия Каримова",
+  "email": "a.karimova@mail.kz",
+  "group": "ИС 22-23",
+  "registrations": [
+    {
+      "code": "NOSQL301",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9ec"
+  },
+  "student_id": 110,
+  "full_name": "Максим Пак",
+  "email": "m.pak@mail.kz",
+  "group": "ИС 23-23",
+  "registrations": [
+    {
+      "code": "DB201",
+      "semester": "2026-1"
+    },
+    {
+      "code": "AI101",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9ed"
+  },
+  "student_id": 111,
+  "full_name": "Диана Оспанова",
+  "email": "d.ospanova@mail.kz",
+  "group": "ИС 24-22",
+  "registrations": [
+    {
+      "code": "WEB210",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9ee"
+  },
+  "student_id": 112,
+  "full_name": "Арман Серик",
+  "email": "a.serik@mail.kz",
+  "group": "ИС 23-11",
+  "registrations": [
+    {
+      "code": "NOSQL301",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9ef"
+  },
+  "student_id": 113,
+  "group": "ИС 25-22",
+  "full_name": "Карина Ли",
+  "email": "k.li@mail.kz",
+  "registrations": [
+    {
+      "code": "DB201",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9f0"
+  },
+  "student_id": 114,
+  "full_name": "Нурсултан Жетписов",
+  "email": "n.zhetpisov@mail.kz",
+  "group": "ИС 23-22",
+  "registrations": [
+    {
+      "code": "AI101",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9f1"
+  },
+  "student_id": 115,
+  "full_name": "Виктория Сон",
+  "email": "v.son@mail.kz",
+  "group": "ИС 23-2",
+  "registrations": [
+    {
+      "code": "NOSQL301",
+      "semester": "2026-1"
+    },
+    {
+      "code": "WEB210",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9f2"
+  },
+  "student_id": 116,
+  "full_name": "Евгений Кравцов",
+  "email": "e.kravtsov@mail.kz",
+  "group": "ИС 24-22",
+  "registrations": [
+    {
+      "code": "DB201",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9f3"
+  },
+  "student_id": 117,
+  "full_name": "Жансая Мурат",
+  "email": "zh.murat@mail.kz",
+  "group": "ИС 23-11",
+  "registrations": [
+    {
+      "code": "WEB210",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9f4"
+  },
+  "student_id": 118,
+  "full_name": "Дамир Югай",
+  "email": "d.yugay@mail.kz",
+  "group": "ИС 25-22",
+  "registrations": [
+    {
+      "code": "AI101",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9f5"
+  },
+  "student_id": 119,
+  "full_name": "Амина Толегенова",
+  "email": "a.tolegenova@mail.kz",
+  "group": "ИС 23-11",
+  "registrations": [
+    {
+      "code": "NOSQL301",
+      "semester": "2026-1"
+    },
+    {
+      "code": "DB201",
+      "semester": "2026-1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aeb016d8289cc1ed8cab9f6"
+  },
+  "student_id": 120,
+  "full_name": "Руслан Абишев",
+  "email": "r.abishev@mail.kz",
+  "group": "ИС 23-11",
+  "registrations": [
+    {
+      "code": "AI101",
+      "semester": "2026-1"
+    }
+  ]
+}]
