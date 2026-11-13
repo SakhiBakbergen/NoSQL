@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6af738a56aace340e311826f"
+  },
+  "groupId": 10,
+  "name": "IS-2301",
+  "faculty": "Information Systems",
+  "curator": "Dr. Alimov"
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118270"
+  },
+  "groupId": 20,
+  "name": "CS-2302",
+  "faculty": "Computer Science",
+  "curator": "Prof. Kuanov"
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118271"
+  },
+  "groupId": 30,
+  "name": "SE-2303",
+  "faculty": "Software Engineering",
+  "curator": "Dr. Tolegen"
+}]

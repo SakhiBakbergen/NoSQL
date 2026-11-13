@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6af738ce6aace340e3118289"
+  },
+  "eventId": 50001,
+  "courseId": 201,
+  "studentId": 1001,
+  "eventType": "lecture_view",
+  "createdAt": {
+    "$date": "2026-11-13T16:20:30.141Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af738ce6aace340e311828a"
+  },
+  "eventId": 50002,
+  "courseId": 201,
+  "studentId": 1001,
+  "eventType": "quiz_submit",
+  "createdAt": {
+    "$date": "2026-11-13T16:20:30.141Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af738ce6aace340e311828b"
+  },
+  "eventId": 50003,
+  "courseId": 202,
+  "studentId": 1002,
+  "eventType": "file_download",
+  "createdAt": {
+    "$date": "2026-11-13T16:20:30.141Z"
+  }
+}]

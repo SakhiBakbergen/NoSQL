@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6af738a56aace340e3118283"
+  },
+  "enrollmentId": 9001,
+  "studentId": 1001,
+  "courseId": 201,
+  "courseTitleSnapshot": "NoSQL Technologies",
+  "semester": 3,
+  "year": 2026,
+  "grade": 92,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118284"
+  },
+  "enrollmentId": 9002,
+  "studentId": 1001,
+  "courseId": 202,
+  "courseTitleSnapshot": "Algorithms & Data Structures",
+  "semester": 3,
+  "year": 2026,
+  "grade": 85,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118285"
+  },
+  "enrollmentId": 9003,
+  "studentId": 1002,
+  "courseId": 201,
+  "courseTitleSnapshot": "NoSQL Technologies",
+  "semester": 3,
+  "year": 2026,
+  "grade": 95,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118286"
+  },
+  "enrollmentId": 9004,
+  "studentId": 1003,
+  "courseId": 202,
+  "courseTitleSnapshot": "Algorithms & Data Structures",
+  "semester": 3,
+  "year": 2026,
+  "grade": 78,
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118287"
+  },
+  "enrollmentId": 9005,
+  "studentId": 1004,
+  "courseId": 203,
+  "courseTitleSnapshot": "Web Development",
+  "semester": 3,
+  "year": 2026,
+  "grade": 91,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118288"
+  },
+  "enrollmentId": 9006,
+  "studentId": 1006,
+  "courseId": 201,
+  "courseTitleSnapshot": "NoSQL Technologies",
+  "semester": 3,
+  "year": 2026,
+  "grade": 89,
+  "status": "active"
+}]

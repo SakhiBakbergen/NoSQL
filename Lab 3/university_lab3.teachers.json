@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6af738a56aace340e3118272"
+  },
+  "teacherId": 501,
+  "name": "Askar Nurlanov",
+  "department": "Information Systems",
+  "degree": "PhD"
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118273"
+  },
+  "teacherId": 502,
+  "name": "Elena Kim",
+  "department": "Computer Science",
+  "degree": "MSc"
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118274"
+  },
+  "teacherId": 503,
+  "name": "Marat Sadykov",
+  "department": "Software Engineering",
+  "degree": "PhD"
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118275"
+  },
+  "teacherId": 504,
+  "name": "Aigul Omarova",
+  "department": "Mathematics",
+  "degree": "PhD"
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118276"
+  },
+  "teacherId": 505,
+  "name": "Timur Bekov",
+  "department": "Data Science",
+  "degree": "MSc"
+}]

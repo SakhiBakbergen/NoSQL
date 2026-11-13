@@ -1,0 +1,237 @@
+[{
+  "_id": {
+    "$oid": "6af738a56aace340e311827d"
+  },
+  "studentId": 1001,
+  "groupId": 10,
+  "fullName": {
+    "firstName": "Aidar",
+    "lastName": "Serikov"
+  },
+  "studentCard": {
+    "cardNumber": "SC-1001",
+    "issuedYear": 2023,
+    "isActive": true
+  },
+  "contacts": {
+    "email": "aidar@example.com",
+    "phone": "+7 700 111 22 33"
+  },
+  "address": {
+    "city": "Almaty",
+    "street": "Abay",
+    "building": 10
+  },
+  "gpa": 3.65,
+  "skills": [
+    "Python",
+    "MongoDB",
+    "Git"
+  ],
+  "projects": [
+    {
+      "title": "MongoDB Store",
+      "technology": "MongoDB",
+      "score": 92
+    },
+    {
+      "title": "Java App",
+      "technology": "Java",
+      "score": 85
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e311827e"
+  },
+  "studentId": 1002,
+  "groupId": 10,
+  "fullName": {
+    "firstName": "Dana",
+    "lastName": "Kassymova"
+  },
+  "studentCard": {
+    "cardNumber": "SC-1002",
+    "issuedYear": 2023,
+    "isActive": true
+  },
+  "contacts": {
+    "email": "dana@example.com",
+    "phone": "+7 701 222 33 44"
+  },
+  "address": {
+    "city": "Astana",
+    "street": "Kabanbay Batyr",
+    "building": 45
+  },
+  "gpa": 3.9,
+  "skills": [
+    "Python",
+    "SQL",
+    "Docker"
+  ],
+  "projects": [
+    {
+      "title": "ML Predictor",
+      "technology": "Python",
+      "score": 96
+    },
+    {
+      "title": "NoSQL Analytics",
+      "technology": "MongoDB",
+      "score": 88
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e311827f"
+  },
+  "studentId": 1003,
+  "groupId": 20,
+  "fullName": {
+    "firstName": "Dias",
+    "lastName": "Bekturov"
+  },
+  "studentCard": {
+    "cardNumber": "SC-1003",
+    "issuedYear": 2023,
+    "isActive": true
+  },
+  "contacts": {
+    "email": "dias@example.com",
+    "phone": "+7 702 333 44 55"
+  },
+  "address": {
+    "city": "Almaty",
+    "street": "Satpayev",
+    "building": 22
+  },
+  "gpa": 3.2,
+  "skills": [
+    "C++",
+    "Linux"
+  ],
+  "projects": [
+    {
+      "title": "Game Engine",
+      "technology": "C++",
+      "score": 80
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118280"
+  },
+  "studentId": 1004,
+  "groupId": 20,
+  "fullName": {
+    "firstName": "Madina",
+    "lastName": "Alieva"
+  },
+  "studentCard": {
+    "cardNumber": "SC-1004",
+    "issuedYear": 2023,
+    "isActive": true
+  },
+  "contacts": {
+    "email": "madina@example.com",
+    "phone": "+7 705 444 55 66"
+  },
+  "address": {
+    "city": "Shymkent",
+    "street": "Tauke Khan",
+    "building": 15
+  },
+  "gpa": 3.8,
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js"
+  ],
+  "projects": [
+    {
+      "title": "E-Commerce Web",
+      "technology": "React",
+      "score": 94
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118281"
+  },
+  "studentId": 1005,
+  "groupId": 30,
+  "fullName": {
+    "firstName": "Arman",
+    "lastName": "Zhumabayev"
+  },
+  "studentCard": {
+    "cardNumber": "SC-1005",
+    "issuedYear": 2023,
+    "isActive": false
+  },
+  "contacts": {
+    "email": "arman@example.com",
+    "phone": "+7 707 555 66 77"
+  },
+  "address": {
+    "city": "Almaty",
+    "street": "Dostyk",
+    "building": 105
+  },
+  "gpa": 2.95,
+  "skills": [
+    "HTML",
+    "CSS",
+    "PHP"
+  ],
+  "projects": [
+    {
+      "title": "Landing Page",
+      "technology": "HTML",
+      "score": 75
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118282"
+  },
+  "studentId": 1006,
+  "groupId": 30,
+  "fullName": {
+    "firstName": "Aruzhan",
+    "lastName": "Tulegenova"
+  },
+  "studentCard": {
+    "cardNumber": "SC-1006",
+    "issuedYear": 2023,
+    "isActive": true
+  },
+  "contacts": {
+    "email": "aruzhan@example.com",
+    "phone": "+7 777 666 77 88"
+  },
+  "address": {
+    "city": "Astana",
+    "street": "Mangilik El",
+    "building": 8
+  },
+  "gpa": 3.75,
+  "skills": [
+    "Python",
+    "MongoDB",
+    "FastAPI"
+  ],
+  "projects": [
+    {
+      "title": "University API",
+      "technology": "MongoDB",
+      "score": 95
+    }
+  ]
+}]

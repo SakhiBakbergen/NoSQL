@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6af738a56aace340e3118277"
+  },
+  "courseId": 201,
+  "name": "NoSQL Technologies",
+  "credits": 5,
+  "teacherId": 501
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118278"
+  },
+  "courseId": 202,
+  "name": "Algorithms & Data Structures",
+  "credits": 6,
+  "teacherId": 502
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e3118279"
+  },
+  "courseId": 203,
+  "name": "Web Development",
+  "credits": 5,
+  "teacherId": 503
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e311827a"
+  },
+  "courseId": 204,
+  "name": "Discrete Mathematics",
+  "credits": 4,
+  "teacherId": 504
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e311827b"
+  },
+  "courseId": 205,
+  "name": "Machine Learning",
+  "credits": 6,
+  "teacherId": 505
+},
+{
+  "_id": {
+    "$oid": "6af738a56aace340e311827c"
+  },
+  "courseId": 206,
+  "name": "Database Design",
+  "credits": 5,
+  "teacherId": 501
+}]
