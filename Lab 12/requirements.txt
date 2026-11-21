@@ -1,0 +1,4 @@
+pymongo>=4.6
+pandas>=2.0
+matplotlib>=3.7
+reportlab>=4.0
